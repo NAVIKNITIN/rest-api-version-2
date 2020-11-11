@@ -1,0 +1,23 @@
+{
+  "name": "nopdeapi",
+  "version": "1.0.0",
+  "description": "creating rest api using express js and mongoos",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NAVIKNITIN/restapi-using-expressjs.git"
+  },
+  "author": "Nitin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NAVIKNITIN/restapi-using-expressjs/issues"
+  },
+  "homepage": "https://github.com/NAVIKNITIN/restapi-using-expressjs#readme"
+}
